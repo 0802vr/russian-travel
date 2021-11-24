@@ -1,0 +1,10 @@
+.photo-grid__item {
+background-size: contain;
+background-position: center;
+object-fit:contain;
+display: block;
+max-width:100%;
+width: auto;
+height: auto;
+
+}

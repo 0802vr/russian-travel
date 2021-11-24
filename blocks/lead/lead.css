@@ -1,0 +1,17 @@
+.lead{
+    max-width: 90vw;
+    margin-left: 48px;
+    margin-right: 48px;
+    display: grid;
+    justify-items: center;
+    
+
+}
+@media screen and (max-width: 800px) {
+    .lead {
+       max-width: 100vw;
+       margin-left: 0;
+       margin-right: 0;
+    }
+
+} 
