@@ -2,15 +2,16 @@
     font-weight: 400;
     font-size: 18px;
     line-height: 163%;
-    width: 1fr;
+    max-width: 100%;
     margin: 0;
+    margin-bottom: 27px;
     
 }
-.place__paragraph:nth-child(1) {
-    margin-bottom: 27px;
+.place__paragraph:last-child {
+    margin-bottom: 0;
 }
 @media screen and (max-width:800px) {
-    .place__paragraph {
+.place__paragraph {
     font-size: 16px;        
 }
 }
