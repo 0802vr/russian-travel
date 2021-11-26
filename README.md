@@ -18,5 +18,5 @@ Travel_Russia(Путешествия по России)
 3. Подключить ссылки.
 4. Добавить форму.
 
-Ссылка по GitHub(help):https://0802vr.github.io/russian-travel/
+Ссылка по GitHub:https://0802vr.github.io/russian-travel/
 --------------------------

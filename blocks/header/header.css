@@ -1,5 +1,5 @@
  .header{
-    max-width: 90%;
+    max-width: 1184px;
     padding-top: 28px;
     margin-left: 48px;
     margin-right: 48px;
@@ -9,18 +9,25 @@
     align-items: center;
 
  }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1060px) {
+.header{
+    max-width: 928px;
+    }
+    }
+@media screen and (max-width: 810px) {
 .header{
     margin-left: 24px;
     margin-right: 24px;
-}/* стили для планшета */
+    max-width: 720px;
+}
 }
 @media screen and (max-width: 425px) {
 .header{
     padding-top: 16px;
     margin-left: 16px;
     margin-right: 16px;
-} /* стили для широкого смартфона */
+    max-width: 288px;
+} 
 }
 
  
